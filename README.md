@@ -4,7 +4,7 @@ Perform a reverse CIDR lookup. That is, provide a CIDR range, and this
 command will determine which IPs from the lookup belong to that range, 
 and what services run on those IPs.
 
-## IP.csv format
+## ips.csv format
 ```
 ip,service
 10.0.0.1,"web"
